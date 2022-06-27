@@ -7,14 +7,18 @@ body {
 
 }
 
+section{
+  background: #F4Ab14;
+}
+
 header {
   background: #034275;
-  color: #FFF;
+  color: rgb(247, 224, 23);
 }
 /* manejo de las características de la etiqueta table*/
 th, td {
   padding: 15px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid rgb(241, 223, 57);
 }
 
 tr:hover {
@@ -71,6 +75,6 @@ label {
 }
 
 footer{
-  background: #5E5E5E;
-  color: #FFF;
+  background: #e6cf00;
+  color: rgb(0, 0, 0);
 }
